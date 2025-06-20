@@ -24,7 +24,6 @@ We create two basic services:
 
 - Node.js (with [kafkajs](https://github.com/tulios/kafkajs))
 - Docker & Docker Compose
-- Kafka UI (optional)
 
 ---
 
@@ -32,7 +31,7 @@ We create two basic services:
 
 ### 1. Install Docker
 
-Ensure Docker is installed and running on your machine.
+Ensure [Docker](https://docs.docker.com/compose/install/) is installed and running on your machine.
 
 ### 2. Clone the repository
 
